@@ -1,4 +1,4 @@
-# OOPLibrarySystem_TeamX
+# OOPLibrarySystem_TeamRTG
 
 This project is a campus library information system built using Java and JavaFX. The system includes features for managing books, handling member registrations, borrowing and returning books, and generating reports.
 
