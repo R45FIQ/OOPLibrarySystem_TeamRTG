@@ -1,0 +1,5 @@
+id,username,password,nama,alamatEmail,role
+1,1,1,John Doe,john.doe@example.com,Admin
+2,jane_smith,password456,Jane Smith,jane.smith@example.com,Mahasiswa
+3,mark_jones,password789,Mark Jones,mark.jones@example.com,Admin
+4,anna_brown,password101,Anna Brown,anna.brown@example.com,Mahasiswa
