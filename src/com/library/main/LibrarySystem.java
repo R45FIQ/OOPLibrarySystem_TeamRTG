@@ -8,7 +8,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.sql.Connection;
-
+//main program
 public class LibrarySystem extends Application {
 
     @Override
